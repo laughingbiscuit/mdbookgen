@@ -1,6 +1,6 @@
 # Simple Notebook
 
-Convert a single markdown file into an
+Split a single markdown file by heading, convert into an
 `mdbook` project with mermaidjs included.
 
 `POSIX` compliant, of course.
