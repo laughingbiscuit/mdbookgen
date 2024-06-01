@@ -22,3 +22,6 @@ blah
 echo hello world
 ```
 
+# Some static image
+
+![Sample](image.png)

@@ -38,3 +38,5 @@ cp notepad.md target/src
   done
 )
 
+# add static assets
+cp static/* target/src/
